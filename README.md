@@ -1,1 +1,2 @@
 # TimRetailManager
+Follow Tim'sinstruction
